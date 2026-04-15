@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Avatar com borda -->
-<img src="https://github.com/labresnana.png" width="120" style="border-radius: 50%; border: 3px solid #bd93f9; box-shadow: 0 0 15px #bd93f9;" />
-
 <br><br>
 
 <!-- Nome clean -->
@@ -10,16 +7,15 @@
   Natália
 </h1>
 
-<h3 style="font-weight: 400; color: #bd93f9;">
-   · Futura full-stack dev · 
-</h3>
-
 <p style="color:#6272a4;">
   Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
-<br>
 
+<br>
+<h3 style="color:#6272a4;">
+  Learning:
+</h3>
 <!-- Tech stack -->
 <img src="https://img.shields.io/badge/-HTML5-282a36?style=flat-square&logo=html5&logoColor=ff6e6e" />
 <img src="https://img.shields.io/badge/-CSS3-282a36?style=flat-square&logo=css3&logoColor=8be9fd" />
@@ -37,10 +33,4 @@
 
 <br>
 
-<!-- Código -->
-```js
-const labresnana = {
-  role:    "full-stack dev",
-  study:   "ADS",
-  status:  "always learning",
-}
+
