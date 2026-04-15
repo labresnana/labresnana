@@ -3,10 +3,6 @@
 <br><br>
 
 <!-- Nome clean -->
-<h1 style="font-weight: 500; letter-spacing: 2px; color: #f8f8f2;">
-  Natália
-</h1>
-
 <p style="color:#6272a4;">
   Estudante de Análise e Desenvolvimento de Sistemas
 </p>
